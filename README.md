@@ -10,7 +10,7 @@ Data :  [Article Data](https://raw.githubusercontent.com/amankharwal/Website-dat
 
 _📌 **Modeling**_ <br/>
 
-Cosine Similarity from sklearn.metrics.pairwise import cosine_similarity
+Cosine Similarity from sklearn.metrics.pairwise
 
 # How to Run 
 
