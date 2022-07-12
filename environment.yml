@@ -1,0 +1,10 @@
+name: learn-article-recsys
+channels:
+  - defaults
+dependencies:
+  - python=3.8.13
+  - pip=21.2.2
+  - pip:
+    - pandas
+    - numpy
+    - sklearn
